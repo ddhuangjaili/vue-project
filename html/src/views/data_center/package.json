@@ -1,0 +1,11 @@
+{
+  "author": {
+    "name": "Fisher Xiong"
+  },
+  "main": "index.js",
+  "name": "data_center",
+  "publishConfig": {
+    "registry": "http://192.168.35.11/nexus/repository/bsmp-client/"
+  },
+  "version": "1.0.2"
+}

@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/*
+!node_modules/bsmp_main/
+!node_modules/sys_config/
+dist/
+debug.log
+npm-debug.log
+yarn-error.log
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
+*.zip

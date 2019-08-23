@@ -1,0 +1,212 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\workspace\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\gitlab\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\gitlab\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\workspace\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\workspace\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\gitlab\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\workspace\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\gitlab\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\workspace\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\gitlab\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\workspace\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\gitlab\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "push_center",
+        "scope": null,
+        "escapedName": "push_center",
+        "name": "push_center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\workspace\\bsmp\\html"
+    ]
+  ],
+  "_from": "push_center",
+  "_id": "push_center@1.1.3",
+  "_inCache": true,
+  "_location": "/push_center",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "bsmp-admin",
+    "email": "alan.wu@gwtsz.net"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "push_center",
+    "scope": null,
+    "escapedName": "push_center",
+    "name": "push_center",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://192.168.35.11/nexus/repository/npm-all/push_center/-/push_center-1.1.3.tgz",
+  "_shasum": "af1b12046dadaaafa656576389202dbeaf3fbabf",
+  "_shrinkwrap": null,
+  "_spec": "push_center",
+  "_where": "E:\\workspace\\bsmp\\html",
+  "author": {
+    "name": "Fisher Xiong"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "dist": {
+    "shasum": "af1b12046dadaaafa656576389202dbeaf3fbabf",
+    "tarball": "http://192.168.35.11/nexus/repository/npm-all/push_center/-/push_center-1.1.3.tgz"
+  },
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "bsmp-admin",
+      "email": "alan.wu@gwtsz.net"
+    }
+  ],
+  "name": "push_center",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "registry": "http://192.168.35.11/nexus/repository/bsmp-client/"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.1.4"
+}

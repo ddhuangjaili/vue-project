@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "base_config",
+        "scope": null,
+        "escapedName": "base_config",
+        "name": "base_config",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\gitlab\\bsmp\\html"
+    ]
+  ],
+  "_from": "base_config@latest",
+  "_id": "base_config@1.0.2",
+  "_inCache": true,
+  "_location": "/base_config",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "bsmp-admin",
+    "email": "alan.wu@gwtsz.net"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "base_config",
+    "scope": null,
+    "escapedName": "base_config",
+    "name": "base_config",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://192.168.35.11/nexus/repository/npm-all/base_config/-/base_config-1.0.2.tgz",
+  "_shasum": "8a717961079bed5686deb6db150ac54a9ba830f4",
+  "_shrinkwrap": null,
+  "_spec": "base_config",
+  "_where": "E:\\gitlab\\bsmp\\html",
+  "author": {
+    "name": "Fisher Xiong"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "dist": {
+    "shasum": "8a717961079bed5686deb6db150ac54a9ba830f4",
+    "tarball": "http://192.168.35.11/nexus/repository/npm-all/base_config/-/base_config-1.0.2.tgz"
+  },
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "bsmp-admin",
+      "email": "alan.wu@gwtsz.net"
+    }
+  ],
+  "name": "base_config",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "registry": "http://192.168.35.11/nexus/repository/bsmp-client/"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.0.4"
+}

@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "crm_service",
+        "scope": null,
+        "escapedName": "crm_service",
+        "name": "crm_service",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\GW\\codes\\bsmp\\html"
+    ],
+    [
+      {
+        "raw": "crm_service",
+        "scope": null,
+        "escapedName": "crm_service",
+        "name": "crm_service",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\gitlab\\bsmp\\html"
+    ]
+  ],
+  "_from": "crm_service",
+  "_id": "crm_service@1.0.3",
+  "_inCache": true,
+  "_location": "/crm_service",
+  "_nodeVersion": "6.10.0",
+  "_npmUser": {
+    "name": "bsmp-admin",
+    "email": "alan.wu@gwtsz.net"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "crm_service",
+    "scope": null,
+    "escapedName": "crm_service",
+    "name": "crm_service",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://192.168.35.11/nexus/repository/npm-all/crm_service/-/crm_service-1.0.3.tgz",
+  "_shasum": "76f652936ccbf86cf0b3b3060d779d4062ab3d43",
+  "_shrinkwrap": null,
+  "_spec": "crm_service",
+  "_where": "E:\\gitlab\\bsmp\\html",
+  "author": {
+    "name": "Fisher Xiong"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "dist": {
+    "shasum": "76f652936ccbf86cf0b3b3060d779d4062ab3d43",
+    "tarball": "http://192.168.35.11/nexus/repository/npm-all/crm_service/-/crm_service-1.0.3.tgz"
+  },
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "bsmp-admin",
+      "email": "alan.wu@gwtsz.net"
+    }
+  ],
+  "name": "crm_service",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "registry": "http://192.168.35.11/nexus/repository/bsmp-client/"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.0.4"
+}

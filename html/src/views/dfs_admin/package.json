@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "dfs_admin",
+        "scope": null,
+        "escapedName": "dfs_admin",
+        "name": "dfs_admin",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      }
+    ],
+    [
+      {
+        "raw": "dfs_admin",
+        "scope": null,
+        "escapedName": "dfs_admin",
+        "name": "dfs_admin",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\gitlab\\bsmp\\html"
+    ]
+  ],
+  "_from": "dfs_admin",
+  "_id": "dfs_admin@1.0.0",
+  "_inCache": true,
+  "_location": "/dfs_admin",
+  "_nodeVersion": "6.10.0",
+  "_npmUser": {
+    "name": "bsmp-admin",
+    "email": "alan.wu@gwtsz.net"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "dfs_admin",
+    "scope": null,
+    "escapedName": "dfs_admin",
+    "name": "dfs_admin",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://192.168.35.11/nexus/repository/npm-all/dfs_admin/-/dfs_admin-1.0.0.tgz",
+  "_shasum": "f381a836c46a02c3007fcf1e13fb783d1662b7ff",
+  "_shrinkwrap": null,
+  "_spec": "dfs_admin",
+  "_where": "E:\\gitlab\\bsmp\\html",
+  "author": {
+    "name": "kirk.li"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "dist": {
+    "shasum": "f381a836c46a02c3007fcf1e13fb783d1662b7ff",
+    "tarball": "http://192.168.35.11/nexus/repository/npm-all/dfs_admin/-/dfs_admin-1.0.0.tgz"
+  },
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "bsmp-admin",
+      "email": "alan.wu@gwtsz.net"
+    }
+  ],
+  "name": "dfs_admin",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "registry": "http://192.168.35.11/nexus/repository/bsmp-client/"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.0.0"
+}

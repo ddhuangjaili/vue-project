@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "shield_office",
+        "scope": null,
+        "escapedName": "shield_office",
+        "name": "shield_office",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\workspace\\bsmp\\html"
+    ]
+  ],
+  "_from": "shield_office@latest",
+  "_id": "shield_office@1.0.0",
+  "_inCache": true,
+  "_location": "/shield_office",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "bsmp-admin",
+    "email": "alan.wu@gwtsz.net"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "shield_office",
+    "scope": null,
+    "escapedName": "shield_office",
+    "name": "shield_office",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://192.168.35.11/nexus/repository/npm-all/shield_office/-/shield_office-1.0.0.tgz",
+  "_shasum": "bddac6d5500e29b84633afaeb03972d95f7ba45a",
+  "_shrinkwrap": null,
+  "_spec": "shield_office",
+  "_where": "E:\\workspace\\bsmp\\html",
+  "author": {
+    "name": "Fisher Xiong"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "dist": {
+    "shasum": "bddac6d5500e29b84633afaeb03972d95f7ba45a",
+    "tarball": "http://192.168.35.11/nexus/repository/npm-all/shield_office/-/shield_office-1.0.0.tgz"
+  },
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "bsmp-admin",
+      "email": "alan.wu@gwtsz.net"
+    }
+  ],
+  "name": "shield_office",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "registry": "http://192.168.35.11/nexus/repository/bsmp-client/"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.0.2"
+}

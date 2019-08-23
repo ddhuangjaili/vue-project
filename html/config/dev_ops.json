@@ -1,0 +1,73 @@
+{
+  "code": "0",
+  "data": {
+    "author": "fisher",
+    "modules": [
+      {
+        "name": "bsmp_main",
+        "type": "sys"
+      },
+      {
+        "name": "sys_config",
+        "type": "sys"
+      },
+      {
+        "name": "app_join",
+        "type": "user"
+      },
+      {
+        "name": "cfg_center",
+        "type": "user"
+      },
+      {
+        "name": "ms_center",
+        "type": "user"
+      },
+      {
+        "name": "service_scret",
+        "type": "user"
+      },
+      {
+        "name": "base_config",
+        "type": "user"
+      },
+      {
+        "name": "ms_app",
+        "type": "user"
+      },
+      {
+        "name": "monitor_alarm",
+        "type": "user"
+      },
+      {
+        "name": "crm_service",
+        "type": "user"
+      },
+      {
+        "name": "push_center",
+        "type": "user"
+      },
+      {
+        "name": "data_center",
+        "type": "user"
+      },
+      {
+        "name": "shield_office",
+        "type": "user"
+      },
+      {
+        "name": "virtual_coin",
+        "type": "user"
+      },
+      {
+        "name": "dfs_admin",
+        "type": "user"
+      },
+      {
+        "name": "risk_system",
+        "type": "user"
+      }
+    ]
+  }
+}
+

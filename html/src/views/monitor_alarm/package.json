@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "monitor_alarm",
+        "scope": null,
+        "escapedName": "monitor_alarm",
+        "name": "monitor_alarm",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\gitlab\\bsmp\\html"
+    ]
+  ],
+  "_from": "monitor_alarm@latest",
+  "_id": "monitor_alarm@1.0.2",
+  "_inCache": true,
+  "_location": "/monitor_alarm",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "bsmp-admin",
+    "email": "alan.wu@gwtsz.net"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "monitor_alarm",
+    "scope": null,
+    "escapedName": "monitor_alarm",
+    "name": "monitor_alarm",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://192.168.35.11/nexus/repository/npm-all/monitor_alarm/-/monitor_alarm-1.0.2.tgz",
+  "_shasum": "2b245242a4d44c27f62c97cb932a549266484879",
+  "_shrinkwrap": null,
+  "_spec": "monitor_alarm",
+  "_where": "E:\\gitlab\\bsmp\\html",
+  "author": {
+    "name": "Fisher Xiong"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "dist": {
+    "shasum": "2b245242a4d44c27f62c97cb932a549266484879",
+    "tarball": "http://192.168.35.11/nexus/repository/npm-all/monitor_alarm/-/monitor_alarm-1.0.2.tgz"
+  },
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "bsmp-admin",
+      "email": "alan.wu@gwtsz.net"
+    }
+  ],
+  "name": "monitor_alarm",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "registry": "http://192.168.35.11/nexus/repository/bsmp-client/"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.0.4"
+}

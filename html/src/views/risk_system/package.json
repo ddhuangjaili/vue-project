@@ -1,0 +1,11 @@
+{
+  "name": "risk_system",
+  "version": "1.0.2",
+  "author": {
+    "name": "Fisher Xiong"
+  },
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://192.168.35.11/nexus/repository/bsmp-client/"
+  }
+}

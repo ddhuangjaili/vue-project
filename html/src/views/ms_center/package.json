@@ -1,0 +1,11 @@
+{
+  "name": "ms_center",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fisher Xiong"
+  },
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://192.168.35.11/nexus/repository/bsmp-client/"
+  }
+}

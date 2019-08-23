@@ -1,0 +1,11 @@
+{
+  "name": "vc_coupon",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jade Zhu"
+  },
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://192.168.35.11/nexus/repository/bsmp-client/"
+  }
+}
